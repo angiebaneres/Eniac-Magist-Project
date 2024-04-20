@@ -1,7 +1,7 @@
 # Eniac Magist Project
 
 ## Summary
-Business propuse: to recommend whether or not to sign the deal with Magist. Based on a clear story created from the information provided from the given dataset and own research about the Brazilian market, like current trends, business opportunities, and competitors.
+Business purpose: to recommend whether or not to sign the deal with Magist. Based on a clear story created from the information provided from the given dataset and own research about the Brazilian market, like current trends, business opportunities, and competitors.
 There are two main concerns:
 1. Eniac’s catalogue is 100% tech products and heavily based on Apple-compatible accessories. It is not clear that Magist is a good partner for these high-end tech products.
 2. Among Eniac’s efforts to have happy customers, fast deliveries are key. The delivery fees resulting from Magist’s deal with the public Post Office might be cheap, but at what cost? Are deliveries fast enough?
