@@ -13,5 +13,4 @@ Practiced SQL with the Magist database to understand the schema, explored the ta
 Used Tableu to visualize and present data
 
 ## Challenges Overcame
-The SQL queries to obtain the bussiness questions were complicated therefore much time were spent on this part
-Understand the Tableu functionalities in order to create the graphs was complex
+The SQL queries to obtain the bussiness questions were complicated therefore much time were spent on this part. Understand the Tableu functionalities in order to create the graphs was complex
